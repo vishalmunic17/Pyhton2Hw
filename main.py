@@ -1,7 +1,7 @@
 def getGradePoint(GPA):
   if (GPA == "A" ):
     return 4.0
-  elif (GPA == "B"):
+  elif (GPA == "A-"):
     return 3.67
   elif (GPA == "B+"):
     return 3.33
