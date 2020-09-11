@@ -39,4 +39,4 @@ def run():
   print(f"Your GPA is: {GPATotal}")
 
 if __name__ == "__main__":
-  run()
+  run() 
