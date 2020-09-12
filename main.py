@@ -1,3 +1,5 @@
+# Author: Vishal Munic
+
 def getGradePoint(GPA):
   if (GPA == "A" ):
     return 4.0
